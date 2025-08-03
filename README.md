@@ -81,6 +81,7 @@ This project uses the following third-party libraries:
 - [Pandas 2.1.4](https://pandas.pydata.org/) for data manipulation.
 
 ## License:
+GNU General Public License v3.0
 
 ## Funding:
 
