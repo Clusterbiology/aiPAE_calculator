@@ -12,7 +12,7 @@ and then calculates (likely) interactions between chains in the protein structur
 - [Output](#output)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
-- [Funding] (#funding)
+- [Funding](#funding)
 - [Contact](#contact)
 
 ## Requirements:
